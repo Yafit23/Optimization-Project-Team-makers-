@@ -1,4 +1,4 @@
-# OptimizationProject-Team makers
+# Optimization_Project
 
 The following program attempt to create the optimal basketball team of 8 players (consisting of 2 centers, 3 point and shooting guard, and 3 small and power forwards) under budget constraint using dynamic programming.
 
