@@ -22,6 +22,18 @@ https://www.basketball-reference.com/leagues/NBA_2022_per_game.html
 
 https://www.nbastuffer.com/analytics101/player-impact-estimate-pie/
 
-![image](https://user-images.githubusercontent.com/118899152/203665225-e954bf19-9fc2-4cb7-8667-90a3b481e6b1.png)  (;
 
 link to google colab: https://colab.research.google.com/drive/1xnW331Eu80-xXy5xfir-QuiDU7Cswg7m?usp=sharing
+
+The idea behind the solution was based on the dynamic programing algorithm for solving the knapsack problem with some changes to fit our data.
+
+intersting links to check out
+knapsack problem-https://en.wikipedia.org/wiki/Knapsack_problem
+
+Other algorithms to consider testing in the future
+B&B- https://en.wikipedia.org/wiki/Branch_and_bound
+
+![image](https://user-images.githubusercontent.com/118899152/203665225-e954bf19-9fc2-4cb7-8667-90a3b481e6b1.png)  
+
+
+
